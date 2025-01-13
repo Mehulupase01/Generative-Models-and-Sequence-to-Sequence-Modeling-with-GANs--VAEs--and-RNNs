@@ -23,7 +23,9 @@ RNNs are used for sequence-to-sequence tasks, specifically learning simple arith
 
 ### Code Structure:
 The project consists of a Jupyter notebook:
-- **`Generative_Models_and_Sequence_Modeling.ipynb`**: The notebook contains the full implementation of both generative modeling and sequence-to-sequence tasks.
+- **`GANs Generated Adversial Network Models.ipynb`**: The notebook contains the full implementation of generative modeling.
+- **`RNNs Recurrent Neural ENtwork Models.ipynb`**: The notebook contains the full implementation of sequence-to-sequence tasks.
+
 
 ### Neural Network Architectures:
 
