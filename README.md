@@ -1,0 +1,2 @@
+# Generative Models and Sequence-to-Sequence Modeling with GANs, VAEs, and RNNs
+ This project focuses on implementing Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Convolutional Autoencoders (CAEs) for image generation and reconstruction tasks. Additionally, RNNs are used for sequence modeling in a sequence-to-sequence problem, such as learning arithmetic operations from text and image data
